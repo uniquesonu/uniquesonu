@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Hi there, I'm Sonu Kumar 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=%2356bcd9&center=true&vCenter=true&width=400&height=50&lines=Frontend+Developer;Problem+Solving;Freelancer;Competitive+Programmer+Intern)](https://github.com/uniquesonu)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=%2356bcd9&center=true&vCenter=true&width=400&height=50&lines=Frontend+Developer;Problem+Solver;Freelancer;Competitive+Programmer;Intern)](https://github.com/uniquesonu)
 
 ## Pursuing BE-CSE from Chandigarh University!!
 
