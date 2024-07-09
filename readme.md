@@ -3,6 +3,10 @@
 ### Hi there, I'm Sonu Kumar 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=%2356bcd9&center=true&vCenter=true&width=400&height=50&lines=Frontend+Developer;Problem+Solver;Freelancer;Competitive+Programmer;Intern)](https://github.com/uniquesonu)
 
+[![](https://visitcount.itsvg.in/api?id=uniquesonu&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
 ## Pursuing BE-CSE from Chandigarh University!!
 
 # My GitHub - <a href='https://github.com/uniquesonu'>github.com/uniquesonu</a>
@@ -71,6 +75,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=uniquesonu&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 </div>
